@@ -1,3 +1,6 @@
+# Meu Projeto 🚀 ![Ícone](https://img.icons8.com/emoji/48/laptop-emoji.png)
+
+
 <h2>Resolução de Problemas - <i>Matemática Financeira</i> de Carlos Patricio Samanez.</h2>
 Possui as soluções dos seguintes capitulos;
 <br>
